@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "The Irreducible Three-Body Congruence Correlation and the Annihilation Lattice on the 6N Skeleton (Part XXI)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-07"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-three-body"
+keywords:
+  - prime constellations
+  - twin primes
+  - three-body correlation
+  - admissibility
+  - singular series
+  - circular convolution
+  - phase space
+  - experimental mathematics
+  - number theory
+references:
+  - type: article
+    title: "Some problems of 'Partitio Numerorum'; III"
+    authors:
+      - {family-names: Hardy, given-names: "G. H."}
+      - {family-names: Littlewood, given-names: "J. E."}
+    journal: "Acta Mathematica"
+    volume: 44
+    year: 1923
+  - type: software
+    title: "The Circular Convolution of Prime Constellations in Congruence Phase Space (Part XX)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20583994
